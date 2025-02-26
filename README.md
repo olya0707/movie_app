@@ -1,8 +1,15 @@
-# React + Vite
+Technologies Used:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React – Component-based UI development
+Vite – Fast build tool for optimized performance
+React Router – Client-side navigation
+Custom Context API for global state management
+Fetch API – Retrieving movie data from an external source
+CSS – Styling the application
 
-Currently, two official plugins are available:
+Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fetch and display movie details from an API
+Implement dynamic routing for different movie pages
+Use Context API for managing global state
+Responsive design for better user experience
