@@ -49,3 +49,12 @@
 .movies-grid > * {
   animation: fadeIn 0.3s ease-out forwards;
 }
+
+.movies-grid:has(.movie-card:nth-child(1):last-child) {
+  grid-template-columns: 33%;
+}
+
+.movies-grid:has(.movie-card:nth-child(2):last-child) {
+  grid-template-columns: 33% 33%;
+}
+
